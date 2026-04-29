@@ -1283,4 +1283,14 @@ img {
   .footer-links {
     justify-content: flex-start;
   }
+
+  .boats-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .boat-card img {
+    width: 100%;
+    height: auto;
+    max-width: 320px;
+  }
 }

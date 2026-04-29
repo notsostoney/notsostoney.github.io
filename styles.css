@@ -1293,4 +1293,12 @@ img {
     height: auto;
     max-width: 320px;
   }
+
+  .feat-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .feat-card--wide {
+    flex-direction: column;
+  }
 }

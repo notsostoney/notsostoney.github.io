@@ -1225,8 +1225,7 @@ img {
   }
 
   .nav-cta {
-    grid-column: 1 / -1;
-    width: 100%;
+    display: none;
   }
 
   .menu-toggle {
